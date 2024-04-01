@@ -1,0 +1,16 @@
+FirstName;LastName;City;Country;PhoneNumber;Email;NumberOfMovies;Top3Movies
+Kathy;Becker;new york;United Sts. of America;072354782;kathy91@gmailcom;10;Barbie/Parasite/Oppenheimer
+Michael;Scott;San Francisco;US of America;+919367788755;mickyscott@yahoo.com;4;Allied/Bad trip/Luckiest girl alive
+Mary;Kilmer;San Diego;United States;+919367788755;Marykilmer@gmail.com;20;Under her control/Love & other drugs/Barbie
+Siena;Viago;Naples;Italy;+919367788755;siennina@gmail.com;10;La La Land/Get Out/Everything Everywhere all at once
+Kathy;Becker;new york;United S. of America;072354782;kathy91@gmailcom;10;Barbie/Parasite/Oppenheimer
+Mary;Kilmer;San Diego;United States;+919367788755;Marykilmer@gmail.com;20;Under her control/Love & other drugs/Barbie
+Ruth;Vega;New York;US;-;ruthie992@yahoo.com;-1;Barbie/Oppenheimer;Will
+Annie;;Hartford;United States of America;+919367788755;anniebananie@gmail.com;3;Make me believe/Love at first sight/Old dads
+Zoe;Harris;Chicago;United States of America;+919367788755;-;1;The Pianist/Forrest Gump/Anger Management
+Emma;Rodriguez;Nashville;Untd. States of Ame.;+919367788755;emmarema@yahoo.vom;7;La La Land/The platform/Infinite
+Katherine;Becker;New York;United Sts of Am.;+919367788755;kathy91@gmailcom;10;Barbie/Parasite/Oppenheimer
+Suzy;Chambers;New York;United States;+919367788755;suzzy@gmail.com;6;Titanic/Joker/Anger Management
+Mary;Becker;New York;United States;+919367788755;mary.becker@gmail.com;6;Titanic/Joker/Anger Management
+Maria;Beckker;New York;United States;+919367788755;mary.becker@gmail.com;6;Titanic/Joker/Anger Management
+Marcy;Beker;New York;United States;+919367788755;mary.becker@gmail.com;6;Titanic/Joker/Anger Management
