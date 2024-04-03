@@ -45,3 +45,10 @@ The main objective of this project is to consolidate the data obtained from both
 
 ![5](https://github.com/farens27/DE-Stuff/assets/60220519/731591f1-f7b8-4b53-b0dc-a773a560708e)
 - Data Flow: Finalize Connections
+
+![6](https://github.com/farens27/DE-Stuff/assets/60220519/12bac782-d7ed-46ec-98b6-46441080a233)
+- Before Cleansing
+
+![7](https://github.com/farens27/DE-Stuff/assets/60220519/1e4871fb-69a9-4b04-9029-8922f20c5691)
+- After Cleansing
+- After the cleansing process, it's apparent that there are still some data issues, such as incorrect email formats and null values. Further refinement can be achieved through additional cleaning using SQL Server, ensuring a more thorough cleansing of the data.
